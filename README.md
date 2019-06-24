@@ -1,4 +1,4 @@
-#Steps to configure
+# Steps to configure
 
 ## Install Docker
 https://www.docker.com
