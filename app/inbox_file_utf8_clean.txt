@@ -1,0 +1,14 @@
+27 may 15:28 Id: 42 #1 Random Text
+
+(Text header 1) Apple                    15
+(Text header 2) Milk          2
+(Text header 1) Ice cream                   4
+(Text header 3) Pencil            1
+(Text header 1) Box                    1
+(Text header 1) Box                    1
+   (Text header 2) Cardboard                 x1
+   (Text header 3) White                 x1
+   (Text header 1) Cube              x1
+(Text header 1) Phone     1
+   (Text header 1) Specific text                x1
+   (Text header 1) Symbian                x1
