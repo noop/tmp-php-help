@@ -7,7 +7,7 @@ if(!is_file($inputFile) || !is_readable($inputFile)) {
   throw new RuntimeException('Failed to open: ' . $inputFile);
 }
 
-$data = file($inputFile);
+$data = file($inputFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
 // First line should contain date information
 $firstLine = array_shift($data);
